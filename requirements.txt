@@ -1,0 +1,9 @@
+oauthlib==3.2.2
+requests==2.31.0
+requests-auth==7.0.0
+requests-oauthlib==2.0.0
+twspace-dl @ git+https://github.com/HoloArchivists/twspace-dl@dac047d6d3fd3ecfdae068be39aca7ca7b04e378
+assemblyai==0.26.0
+ollama==0.1.9
+tweepy==4.14.0
+

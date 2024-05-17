@@ -31,7 +31,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 - Make sure to install Ollama llama2-uncensored
   
 - Make sure to create a dir named "/metadata"
-- 
+  
 - Download twitter cookies (use [Get cookies.txt LOCALLY
 Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc?hl=en) to download cookies)
 

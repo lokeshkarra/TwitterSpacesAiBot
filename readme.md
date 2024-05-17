@@ -20,6 +20,7 @@ export TWITTER_API_KEY="your_consumer_key"
 export TWITTER_API_KEY_SECRET="your_consumer_secret"
 export TWITTER_ACCESS_TOKEN="your_access_token"
 export TWITTER_ACCESS_TOKEN_SECRET="your_access_token_secret"
+export AAI_API_KEY="your_assembly_api_key"
 ```
 
 Install the dependencies.
